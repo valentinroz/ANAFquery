@@ -1,5 +1,5 @@
 # ANAFquery
-Read fiscal attributes for Romanian companies from ANAF webservice
+C# class to read fiscal attributes for Romanian companies from ANAF webservice
 
 Documentatia pentru interogarea serviciului web se poate gasi aici: https://static.anaf.ro/static/10/Anaf/Informatii_R/documentatie_SW_01112017.txt
 
