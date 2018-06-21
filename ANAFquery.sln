@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANAFquery", "ANAFquery\ANAFquery.csproj", "{BFBDEF1F-C608-4B51-ADAF-0DBD68C13456}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANAFqueryDemo", "ANAFqueryDemo\ANAFqueryDemo.csproj", "{EE043136-81C9-4452-A673-327C0BDDC537}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BFBDEF1F-C608-4B51-ADAF-0DBD68C13456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFBDEF1F-C608-4B51-ADAF-0DBD68C13456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFBDEF1F-C608-4B51-ADAF-0DBD68C13456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE043136-81C9-4452-A673-327C0BDDC537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE043136-81C9-4452-A673-327C0BDDC537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE043136-81C9-4452-A673-327C0BDDC537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE043136-81C9-4452-A673-327C0BDDC537}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
