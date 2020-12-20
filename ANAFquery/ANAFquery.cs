@@ -8,7 +8,7 @@ namespace ANAFquery
 {
     public class ANAFquery
     {
-        const string anafLink = "https://webservicesp.anaf.ro/PlatitorTvaRest/api/v3/ws/tva";
+        const string anafLink = "https://webservicesp.anaf.ro/PlatitorTvaRest/api/v4/ws/tva";
 
         public void SendRequestForOneItem(QueryItem q, out string strFound, out string strNotFound)
         {
